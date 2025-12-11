@@ -18,7 +18,7 @@ Clean project structure
 
 # 📦 Tech Stack
 
-# Python 3.12
+# Python 3.13
 
 # Django
 
