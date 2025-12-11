@@ -9,22 +9,32 @@ Full CRUD API for blog posts
 
 Django REST Framework serializers & viewsets
 
+Swagger UI + Redoc with DRF Spectacular
+
+JWT authentication (SimpleJWT)
+
 Token-based authentication with Simple JWT
 
-Create / Delete / Edit / Read   for  Blogs and Users 
+CORS enabled
+
+Ready for deployment on Render
 
 Clean project structure
 
 
 # 📦 Tech Stack
 
-# Python 3.13
+# Python 3.12
 
-# Django
+# Django 6
 
-# Django REST Framework (DRF)
+# Django REST Framework 3.16
 
-# SQLite (default local DB)
+# DRF Spectacular (Swagger & ReDoc)
+
+# Gunicorn (Render production)
+
+# SQLite (development)
 
 
 
@@ -70,6 +80,14 @@ python manage.py runserver
 
 👉 http://127.0.0.1:8000/
 
+
+
+🔥 Swagger & Redoc URLs
+
+✨ Swagger UI
+👉 http://127.0.0.1:8000/swagger/
+✨ ReDoc
+👉 http://127.0.0.1:8000/redoc/
 
 
 # 📚 API Endpoints (Example)
