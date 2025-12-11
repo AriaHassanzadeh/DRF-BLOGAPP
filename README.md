@@ -84,4 +84,4 @@ DELETE	/api/posts/<id>	Delete a post
 
 
 # 🌐 Live Deployment:
-Deployed on Render → add your Render URL here
+Deployed on Render → https://drf-blogapp.onrender.com
